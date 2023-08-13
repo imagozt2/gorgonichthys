@@ -1,0 +1,128 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <gorgonicht>Gorgonichtys</gorgonicht>
+      <gorgonicht_stt>Gorgonichtys</gorgonicht_stt>
+      <gorgonicht_lower>the Gorgonichtys</gorgonicht_lower>
+      <gorgonicht_ltt>
+         <color r="255" g="248" b="178">
+            <b>Gorgonichtys</b>
+         </color>
+         <br/>
+         Click to place a Gorgonichtys.
+      </gorgonicht_ltt>
+      <!--gift names-->
+      <gorgonicht_Gift>Gorgonichtys</gorgonicht_Gift>
+      <gorgonicht_Gift_stt>Gorgonichtys</gorgonicht_Gift_stt>
+      <gorgonicht_Gift_lower>the Gorgonichtys</gorgonicht_Gift_lower>
+      <gorgonicht_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Gorgonichtys</b>
+         </color>
+         <br/>.
+      </gorgonicht_Gift_ltt>
+</entityname>
+<zoopedia_gorgonicht>
+ <entry>Gorgonichtys</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/gorgonicht/gorgonicht_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status: 
+                     <br/>
+                        <color r="255" g="255" b="255">
+                     Extinct
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Oceanic<br/></color>
+     <img src="ui/icon_biomes/icon_pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Temperate Oceans<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: armored fish <i>(Placodermi)</i><br/>Order: Coccosteina  <i>(Arthrodiriformes)</i><br/>Family: <i>Dinichthyloidea</i><br/>Genus: <i>Gorgonichtys</i><br/>Species: <i>G. clarkii</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun gorgonichtys Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It is said that this species could reach up to 6 meters.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It lived in Late Devonian.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">It was discovered in 1892.</color>
+       
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Gorgonichtys in challenge or campaign games, you must earn a 4 star zoo fame rating for your zoo. 
+   </color>
+<p/>Gorgonichthys is one of the many species that have been found Arthrodires. Shares traits related to Dunkleosteus, since all Dinichthydos look very scary. Like all placoderms lived in the Devonian this. Media 6 meters, and the smells that should have had much fame epoce tyrant of the seas as Dunkleosteus. He was a great predator and caught fish with strong jaws, not that suck Titanichthys plankton. It was first described in 1892, and is assigned Arthrodire since 2002..
+
+</cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Information from <color r="255" g="231" b="135">Wikipedia and other sites</color>Imago<color r="0" g="0" b="0"></color>
+  </cell>
+ </text>
+</zoopedia_gorgonicht>
+</ZT2Strings>
